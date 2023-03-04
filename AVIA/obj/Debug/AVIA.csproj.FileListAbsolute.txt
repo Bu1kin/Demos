@@ -1,0 +1,15 @@
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA.csproj.AssemblyReference.cache
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\MainWindow.g.cs
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\App.g.cs
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA_MarkupCompile.cache
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA_MarkupCompile.lref
+C:\Users\bulkin\source\repos\AVIA\AVIA\bin\Debug\AVIA.exe.config
+C:\Users\bulkin\source\repos\AVIA\AVIA\bin\Debug\AVIA.exe
+C:\Users\bulkin\source\repos\AVIA\AVIA\bin\Debug\AVIA.pdb
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\MainWindow.baml
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA.g.resources
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA.Properties.Resources.resources
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA.csproj.GenerateResource.cache
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA.csproj.CoreCompileInputs.cache
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA.exe
+C:\Users\bulkin\source\repos\AVIA\AVIA\obj\Debug\AVIA.pdb
