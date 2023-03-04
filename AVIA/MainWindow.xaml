@@ -11,11 +11,11 @@
         <Image Source="/Images/DS2017_TP09_color.png" HorizontalAlignment="Left" Height="122" Margin="192,22,0,0" VerticalAlignment="Top" Width="401"/>
         <Label Content="Username:" HorizontalAlignment="Left" Margin="95,183,0,0" VerticalAlignment="Top" FontSize="18"/>
         <Label Content="Password:" HorizontalAlignment="Left" Margin="101,239,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox HorizontalAlignment="Left" Height="34" Margin="194,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="399" FontSize="18"/>
+        <TextBox x:Name="tb_username" HorizontalAlignment="Left" Height="34" Margin="194,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="399" FontSize="18"/>
         <Button HorizontalAlignment="Left" Margin="225,295,0,0" VerticalAlignment="Top" Width="151" Height="27">
             <TextBlock FontSize="17">Login</TextBlock>
         </Button>
-        <TextBox HorizontalAlignment="Left" Height="34" Margin="194,239,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="399" FontSize="18"/>
+        <TextBox x:Name="tb_password" HorizontalAlignment="Left" Height="34" Margin="194,239,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="399" FontSize="18"/>
         <Button HorizontalAlignment="Left" Margin="413,295,0,0" VerticalAlignment="Top" Width="151" Height="27" Click="Button_Click_1">
             <TextBlock FontSize="17"><Run Text="Exit"/></TextBlock>
         </Button>

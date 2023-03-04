@@ -25,6 +25,7 @@ namespace AVIA
             InitializeComponent();
         }
 
+        // Обработчик нажатия на кнопку выхода из программы с одноимённой функцией 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();

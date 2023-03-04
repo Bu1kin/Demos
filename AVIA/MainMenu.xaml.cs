@@ -22,6 +22,12 @@ namespace AVIA
         public AdminMenu()
         {
             InitializeComponent();
+
+            /// Получение данных пользователей в DataGrid из базы данных
+            dg_admin_users.ItemsSource = AviaEntities.GetContext().Users.ToList();
+
+            /// Получение данных трекинга ошибок при выхода из аккаунта в DataGrid из базы данных
+            dg_user_tracking.ItemsSource = AviaEntities.GetContext().Tracking.ToList();
         }
     }
-}
+} 
